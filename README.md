@@ -1,4 +1,4 @@
-#### Transfer Learning for Facial Recognition
+# Transfer Learning for Facial Recognition
 
 ## transfer_learning.ipynb:
 Repurposed the convolutional base from InceptionV3 (with pretrained weights from ImageNet), to differentiate between human faces.
